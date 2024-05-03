@@ -1,0 +1,17 @@
+menu:
+  Archives: /archives
+  Reports: /categories/Report
+
+menu_title: CCSUBS
+
+index_cover: images/banner.png
+default_post_title: Untitled
+
+google_analytics:
+
+
+favicon: images/favicon.ico
+
+linkedin_url: https://www.linkedin.com/company/ccsubs
+mailto: pal@sandflow.com
+github_url:

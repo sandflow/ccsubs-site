@@ -1,0 +1,3 @@
+[submodule "themes/cleaner-blog"]
+	path = themes/cleaner-blog
+	url = https://github.com/sandflow/hexo-theme-cleaner-blog.git
