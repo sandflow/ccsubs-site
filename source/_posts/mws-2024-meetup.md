@@ -1,5 +1,5 @@
 ---
-title: Register now for our meet-up at MWS on June 10, 2024, in Berlin
+title: Register now for our meet-up at MWS on June 10, 2024 in Berlin
 date: 2024-05-02 20:16:30
 categories: Announcement
 ---
@@ -18,7 +18,7 @@ Where
 
 _[Register today](https://forms.gle/VKD2NTGeWbA4C4P5A). Space is limited and registration closes on May 15, 2024._
 
-The subtitling and captioning ecosystem remains fragmented by technology and practices. This makes it expensive, if not impossible, to deliver great experiences. This event will bring together technology experts from streaming services, studios, browser vendors, and suppliers to explore these challenges.
+The subtitling and captioning ecosystem remains fragmented by technology and practices. This makes it expensive, if not impossible, to deliver great experiences. This event will bring together content providers, service providers and product vendors to explore these challenges.
 
 This event is a follow-up to our [meet-up at NAB 2024](/nab-2024-meetup/) and is intended for stakeholders that could not make it to NAB. We will report on the discussions and conclusions of the [meet-up at NAB 2024](/nab-2024-meetup/) and gather feedback from the participants on the topics of live subtitling and captioning as well as on quality measurement of subtitles.
 
