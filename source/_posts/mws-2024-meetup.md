@@ -26,4 +26,4 @@ We ask the participants not to disclose publicly the discussions held during the
 
 Thanks to [Fraunhofer Fokus](https://www.fokus.fraunhofer.de/) and our sponsors there is no registration fee.
 
-Please contact the event chair [Andreas Tai](andreas@andreastai.com) with any question.
+Please contact the event chairs [Pierre-Anthony Lemieux](mailto:pal@sandflow.com) and [Andreas Tai](andreas@andreastai.com) with any question.
