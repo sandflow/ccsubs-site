@@ -1,10 +1,10 @@
 ---
 title: Register now for our meet-up at MWS on June 10, 2024 in Berlin
-date: 2024-05-02 20:16:30
+date: 2024-05-05 20:16:30
 categories: Announcement
 ---
 
-The CCSUBS group invites you to a meet-up at the Media Web Symposium (MWS) 2024.
+The CCSUBS group invites you to a meet-up at the [Media Web Symposium (MWS) 2024](https://www.fokus.fraunhofer.de/go/mws).
 
 
 Topic
@@ -14,9 +14,11 @@ When
 : June 10, 2024, from 16:30 to 18:30 (local time)
 
 Where
-: Berlin, Germany
+: Fraunhofer FOKUS
+: Kaiserin-Augusta-Allee 31
+: 10589 Berlin, Germany
 
-_[Register today](https://forms.gle/VKD2NTGeWbA4C4P5A). Space is limited and registration closes on May 15, 2024._
+_[Register today](https://www.eventbrite.com/e/ccsubs-meet-up-at-media-web-symposium-mws-2024-tickets-898404571257). Space is limited and registration closes on May 15, 2024._
 
 The subtitling and captioning ecosystem remains fragmented by technology and practices. This makes it expensive, if not impossible, to deliver great experiences. This event will bring together content providers, service providers and product vendors to explore these challenges.
 
@@ -24,6 +26,8 @@ This event is a follow-up to our [meet-up at NAB 2024](/nab-2024-meetup/) and is
 
 We ask the participants not to disclose publicly the discussions held during the meet-up.
 
-Thanks to [Fraunhofer Fokus](https://www.fokus.fraunhofer.de/) and our sponsors there is no registration fee.
+Thanks to [Fraunhofer FOKUS](https://www.fokus.fraunhofer.de/) and our sponsors there is no registration fee.
+
+Be sure to explore the other segments of the [MWS program](https://www.fokus.fraunhofer.de/en/mws/detailed-program) and register at https://mws11.eventbrite.com.
 
 Please contact the event chairs [Pierre-Anthony Lemieux](mailto:pal@sandflow.com) and [Andreas Tai](andreas@andreastai.com) with any question.
