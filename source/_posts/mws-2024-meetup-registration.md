@@ -26,8 +26,6 @@ We ask the participants not to disclose publicly the discussions held during the
 
 Thanks to Fraunhofer FOKUS and our sponsors there is no registration fee. The meet-up is co-located with the Media Web Symposium (MWS).
 
-Thanks to [Fraunhofer FOKUS](https://www.fokus.fraunhofer.de/) and our sponsors
-there is no registration fee. The meet-up is co-located with the [Media Web Symposium (MWS)](https://www.fokus.fraunhofer.de/en/mws/detailed-program) (a
-separate registration is required for attendance at the MWS).
+Thanks to [Fraunhofer FOKUS](https://www.fokus.fraunhofer.de/) and our sponsors there is no registration fee. The meet-up is co-located with the [Media Web Symposium (MWS)](https://www.fokus.fraunhofer.de/en/mws/detailed-program) (a separate registration is required for attendance at the MWS).
 
 Please contact the event chairs [Pierre-Anthony Lemieux](mailto:pal@sandflow.com) and [Andreas Tai](andreas@andreastai.com) with any question.
