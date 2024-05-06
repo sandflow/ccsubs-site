@@ -16,7 +16,7 @@ When
 Where
 : Fraunhofer FOKUS, Kaiserin-Augusta-Allee 31, 10589 Berlin, Germany
 
-_[Register today](https://www.eventbrite.com/e/ccsubs-meet-up-at-media-web-symposium-mws-2024-tickets-898404571257). Space is limited and registration closes on May 15, 2024._
+_[Register today](https://ccsubs-mws-2024.eventbrite.com). Space is limited and registration closes on May 15, 2024._
 
 The subtitling and captioning ecosystem remains fragmented by technology and practices. This makes it expensive, if not impossible, to deliver great experiences. This event will bring together content providers, service providers and product vendors to explore these challenges.
 
