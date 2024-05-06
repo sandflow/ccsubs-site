@@ -24,6 +24,10 @@ This event is a follow-up to our [meet-up at NAB 2024](/nab-2024-meetup/) and is
 
 We ask the participants not to disclose publicly the discussions held during the meet-up.
 
-Thanks to [Fraunhofer FOKUS](https://www.fokus.fraunhofer.de/) and our sponsors there is no registration fee. Be sure to explore the other segments of the [MWS program](https://www.fokus.fraunhofer.de/en/mws/detailed-program) and register at https://mws11.eventbrite.com.
+Thanks to Fraunhofer FOKUS and our sponsors there is no registration fee. The meet-up is co-located with the Media Web Symposium (MWS).
+
+Thanks to [Fraunhofer FOKUS](https://www.fokus.fraunhofer.de/) and our sponsors
+there is no registration fee. The meet-up is co-located with the [Media Web Symposium (MWS)](https://www.fokus.fraunhofer.de/en/mws/detailed-program) (a
+separate registration is required for attendance at the MWS).
 
 Please contact the event chairs [Pierre-Anthony Lemieux](mailto:pal@sandflow.com) and [Andreas Tai](andreas@andreastai.com) with any question.
