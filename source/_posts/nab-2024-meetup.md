@@ -1,5 +1,5 @@
 ---
-title: "Report on the workshop on captioning and subtitling in streaming at NAB 2024"
+title: "Report on our meet-up on captioning and subtitling in streaming at NAB 2024"
 date: 2024-05-02 17:12:24
 categories: Report
 ---
@@ -60,7 +60,7 @@ Subscribe to our [email reflector](https://lists.ccsubs.org/mailman/listinfo/mai
 
 CCSUBS would like to thank event organizers and chairs Andreas Tai (a2a11y) and Pierre-Anthony Lemieux (Sandflow Consulting); program committee members Eric Carlson (Apple), Cyril Concolato (Netflix), Flavio Ribeiro (Netflix), Ken Harrenstien (YouTube) and Bill McLaughlin (AI-Media); event coordinator Lisa Vierra (Netflix); and event sponsors Netflix, VITAC, SMPTE and AWS.
 
-{% asset_img amzn-logo.png 128 "Amazon Web Services logo" %} &emsp; {% asset_img netflix-logo.png 128 "Netflix logo" %}  &emsp; {% asset_img smpte-logo.png 128 "SMPTE logo" %}  &emsp; {% asset_img VITAC-logo.png 128 "VITAC logo" %}
+{% img /images/logos/amzn-logo.png 128 "Amazon Web Services logo" %} &emsp; {% img /images/logos/netflix-logo.png 128 "Netflix logo" %}  &emsp; {% img /images/logos/smpte-logo.png 128 "SMPTE logo" %}  &emsp; {% img /images/logos/VITAC-logo.png 128 "VITAC logo" %}
 
 # Attendees
 
