@@ -6,7 +6,7 @@ categories: Announcement
 
 [CCSUBS](https://www.ccsubs.org) is hosting a meetup on June 26, 2025 in Berlin, Germany, co-located with the [Media Web Symposium at Fraunhofer FOKUS](https://mws.fraunhofer.de/program/mws25/).
 
-🚨 Join (CCSUBS today)(https://ccsubs.org/join/) to attend in person or remotely. There is no fee. 🚨
+🚨 Join [CCSUBS today](https://ccsubs.org/join/) to attend in person or remotely. There is no fee. 🚨
 
 _A separate [registration](https://mws.fraunhofer.de/mws25/registration/) is required to attend in person._
 
