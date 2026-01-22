@@ -8,7 +8,7 @@ The results of the first annual CCSUBS survey on the subtitling and captioning e
 
 [CCSUBS Survey 2025](/docs/survey-2025/ccsubs-survey-2025-20260121.pdf)
 
-_Key takeaway_: significant areas of friction remain, including fragmentation between timed text formats. These challenges can be solved through collaboration and we invite your participation and input!
+_Key takeaway_: significant areas of friction remain, including fragmentation across timed text formats. These challenges can however be solved through collaboration and we invite your participation and input!
 
 ![](chart.png)
 
